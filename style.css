@@ -1,0 +1,84 @@
+/*Aqui va el comentario*/
+body{
+background-color: rgb(0, 0, 0);
+color:rgb(227, 235, 213);
+font-family: 'Playfair Display', serif;
+font-family: 'Roboto Slab', serif;
+}
+
+p {
+    color:rgb(199, 154, 154)
+}
+
+h1 {
+    color:brown
+}
+
+/*Para agregar clase, ponemos (.) antes del nombre*/
+
+.titulo-web {
+    color:rgb(221, 110, 65);
+    font-size:200px;
+}
+
+.negra{
+    width: 600px;
+    display: block;
+    margin-left:center;
+}
+
+img{
+    width:220px;
+    
+}
+
+.gatito{
+    width:280px;
+}
+
+.nombre {
+    color:lavender;
+    font-size:x-small
+}
+
+.creado {
+    color:tan
+}
+
+.aman{
+ font-size:larger;
+ font-family: 'Playfair Display', serif;
+font-family: 'Playfair Display SC', serif;
+font-family: 'Roboto Slab', serif;
+}
+
+.gafas{
+    width: 270px;
+}
+
+.durmiendo{
+    width: 270px;
+}
+
+.odian{
+font-size: larger;
+font-family: 'Playfair Display', serif;
+font-family: 'Playfair Display SC', serif;
+font-family: 'Roboto Slab', serif;
+}
+
+.bañaron{
+    width: 280px;
+}
+
+.pepino{
+    width:300px;
+}
+
+.etapas{
+    color: honeydew;
+}
+
+.mandarino{
+    width: 300px;
+}
